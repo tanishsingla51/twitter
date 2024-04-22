@@ -1,0 +1,6 @@
+# Custom Dictionary Words
+# Custom dictionary words are words that are not in the default dictionary, but are still valid words. You can add custom dictionary words to the dictionary by creating a custom dictionary file and adding the words to it.
+naman
+otheruser
+unfollow
+Unfollowed

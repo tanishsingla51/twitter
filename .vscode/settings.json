@@ -1,0 +1,19 @@
+{
+    "cSpell.words": [
+        "Elon",
+        "elonmusk",
+        "Envolope",
+        "Googleassistant",
+        "Tanish",
+        "Ticktick",
+        "Ubisoft"
+    ],
+    "cSpell.customDictionaries": {
+        "custom-dictionary-workspace": {
+            "name": "custom-dictionary-workspace",
+            "path": "${workspaceFolder:X1}/.cspell/custom-dictionary-workspace.txt",
+            "addWords": true,
+            "scope": "workspace"
+        }
+    }
+}
