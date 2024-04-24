@@ -4,5 +4,7 @@ alltweets
 followingtweets
 naman
 otheruser
+reduxjs
+tailwindcss
 unfollow
 Unfollowed
